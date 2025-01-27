@@ -14,7 +14,7 @@
 
     <!-- Background Music -->
     <audio autoplay loop>
-        <source src="audio/happy_birthday_song.mp3" type="audio/mpeg">
+        <source src="songs.mp3" type="audio/mpeg">
         Your browser does not support the audio tag.
     </audio>
 
@@ -40,10 +40,10 @@
             <h2>Photo Gallery 📷</h2>
             <div class="image-gallery">
                 <img src="2.jpg" alt="Image 1">
-                <img src="images/image2.jpg" alt="Image 2">
-                <img src="images/image3.jpg" alt="Image 3">
-                <img src="images/image4.jpg" alt="Image 4">
-                <img src="images/image5.jpg" alt="Image 5">
+                <img src="3.jpg" alt="Image 2">
+                <img src="4.jpg" alt="Image 3">
+                <img src="5.jpg" alt="Image 4">
+                <img src="6.jpg" alt="Image 5">
             </div>
         </div>
     </div>
