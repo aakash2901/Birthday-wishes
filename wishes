@@ -39,7 +39,7 @@
         <div class="section" id="images">
             <h2>Photo Gallery 📷</h2>
             <div class="image-gallery">
-                <img src="images/image1.jpg" alt="Image 1">
+                <img src="IMG_20241005_141800.jpg" alt="Image 1">
                 <img src="images/image2.jpg" alt="Image 2">
                 <img src="images/image3.jpg" alt="Image 3">
                 <img src="images/image4.jpg" alt="Image 4">
